@@ -136,5 +136,6 @@ This report provides a comprehensive guide to setting up a cybersecurity lab env
 
 By following these steps, you will create a robust and versatile lab environment that can be used for various cybersecurity training and practice scenarios. This setup will provide practical experience and demonstrate your skills to potential employers.
 
+George Ofosu,CASP
 ---
 
